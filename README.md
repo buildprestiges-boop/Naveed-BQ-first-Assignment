@@ -1,2 +1,2 @@
 # Naveed-BQ-first-Assignment
-Bano qabil first Assignme
+Bano qabil first Assignment
